@@ -23,11 +23,30 @@ I'm an aspiring Systems Engineer interested in building useful software and lear
 ![Git](https://img.shields.io/badge/Git-Learning-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Learning-181717?style=flat-square&logo=github&logoColor=white)
 
-## Projects
 
-I'm preparing my first documented projects. Each repository will include a clear description, instructions to run it and what I learned.
+## Featured Projects
 
-*Projects will appear here as I complete and publish them.*
+### Electromagnetic Simulator
+**Interactive 3D Electromagnetic Crane**
+
+An educational web application featuring a 3D electromagnetic crane, industrial controls, interactive physics explanations, and simulated telemetry.
+
+**Technologies:** JavaScript, HTML, CSS, Three.js, WebGL, Chart.js
+
+[Live Demo](https://waltdev16.github.io/Electromagnetic_Simulator/) · [Repository](https://github.com/waltdev16/Electromagnetic_Simulator)
+
+### Race Maze
+**Interactive Maze Racing Game**
+
+A browser-based racing game featuring procedural maze generation, pathfinding algorithms (BFS and DFS), vehicle controls, collectibles, and progressive levels.
+
+**Technologies:** JavaScript, HTML, CSS, Canvas API
+
+[Repository](https://github.com/waltdev16/race-maze)
+
+---
+
+I'm continuously developing new projects to strengthen my skills in software engineering, artificial intelligence, and data analytics.
 
 ---
 
