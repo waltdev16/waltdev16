@@ -55,7 +55,7 @@ A browser-based racing game featuring procedural maze generation, pathfinding al
 
 **Technologies:** JavaScript, HTML, CSS, Canvas API
 
-[Live Demo](https://waltdev16.github.io/Race_Maze/) · [Repository](https://github.com/waltdev16/race-maze)
+[Live Demo](https://waltdev16.github.io/Race_Maze/) · [Repository](https://github.com/waltdev16/Race_Maze)
 
 ## Learning & Practice
 
