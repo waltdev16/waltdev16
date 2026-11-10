@@ -61,9 +61,12 @@ A browser-based racing game featuring procedural maze generation, pathfinding al
 
 ### Web Development Lab
 
-A collection of practical exercises documenting my progress
+A collection of hands-on exercises documenting my progress
 in frontend development, from HTML and CSS fundamentals
 to JavaScript and React applications.
+
+The repository includes an interactive practice gallery
+and a React-based virtual pet application.
 
 **Technologies:** HTML, CSS, JavaScript, React, Vite
 
