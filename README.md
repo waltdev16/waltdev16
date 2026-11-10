@@ -35,6 +35,7 @@ An educational web application featuring a 3D electromagnetic crane, industrial 
 
 [Live Demo](https://waltdev16.github.io/Electromagnetic_Simulator/) · [Repository](https://github.com/waltdev16/Electromagnetic_Simulator)
 
+
 ### Race Maze
 **Interactive Maze Racing Game**
 
@@ -42,7 +43,7 @@ A browser-based racing game featuring procedural maze generation, pathfinding al
 
 **Technologies:** JavaScript, HTML, CSS, Canvas API
 
-[Repository](https://github.com/waltdev16/race-maze)
+[Live Demo](https://waltdev16.github.io/race-maze/) · [Repository](https://github.com/waltdev16/race-maze)
 
 ---
 
