@@ -17,12 +17,24 @@ I'm an aspiring Systems Engineer interested in building useful software and lear
 - 🎯 **Goal:** grow through practical projects and consistent learning
 - 🌎 **From:** El Salvador
 
-## What I'm learning
+## Technologies & Tools
+
+### Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### 3D & Visualization
+
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+
+### Currently Learning
 
 ![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Learning-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Learning-181717?style=flat-square&logo=github&logoColor=white)
-
 
 ## Featured Projects
 
