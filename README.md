@@ -57,6 +57,18 @@ A browser-based racing game featuring procedural maze generation, pathfinding al
 
 [Live Demo](https://waltdev16.github.io/Race_Maze/) · [Repository](https://github.com/waltdev16/race-maze)
 
+## Learning & Practice
+
+### Web Development Lab
+
+A collection of practical exercises documenting my progress
+in frontend development, from HTML and CSS fundamentals
+to JavaScript and React applications.
+
+**Technologies:** HTML, CSS, JavaScript, React, Vite
+
+[Live Demo](https://waltdev16.github.io/Web_Development_Lab/) · [Repository](https://github.com/waltdev16/Web_Development_Lab)
+
 ---
 
 I'm continuously developing new projects to strengthen my skills in software engineering, artificial intelligence, and data analytics.
