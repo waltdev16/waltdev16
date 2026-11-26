@@ -24,15 +24,29 @@ Through academic and independent projects, I aim to strengthen my technical skil
 
 ## Selected Projects
 
-| Project | Focus | Repository |
-|---|---|---|
-| **SortlyScan** | Artificial Intelligence & Environmental Education | [View project](https://github.com/waltdev16/SortlyScan_ExpoTech) |
-| **HYDRA** | IoT, Embedded Systems & Digital Twin | [View project](https://github.com/waltdev16/HYDRA) |
-| **Hotspots Comerciales** | Machine Learning & Geospatial Analysis | [View project](https://github.com/waltdev16/Hotspots_Comerciales) |
-| **Electromagnetic Simulator** | Computational Physics & 3D Simulation | [View project](https://github.com/waltdev16/Electromagnetic_Simulator) |
-| **Python Development Lab** | Programming & Algorithmic Thinking | [View project](https://github.com/waltdev16/Python_Development_Lab) |
-| **Web Development Lab** | Frontend Development & Interactive Applications | [View project](https://github.com/waltdev16/Web_Development_Lab) |
-| **Race Maze** | Pathfinding Algorithms & Game Development | [View project](https://github.com/waltdev16/Race_Maze) |
+### [SortlyScan](https://github.com/waltdev16/SortlyScan_ExpoTech)
+AI-powered educational platform focused on recycling, environmental education, gamification, and institutional analytics.  
+**Focus:** Artificial Intelligence · Environmental Education · Computer Vision
+
+### [HYDRA](https://github.com/waltdev16/HYDRA)
+Automated rainwater harvesting and management system featuring Arduino-based control, IoT connectivity, and an interactive 3D digital twin.  
+**Focus:** IoT · Embedded Systems · Digital Twin
+
+### [Hotspots Comerciales](https://github.com/waltdev16/Hotspots_Comerciales)
+Geospatial and machine learning project developed to identify commercial clusters and evaluate potential business locations in El Salvador.  
+**Focus:** Machine Learning · Geospatial Analysis
+
+### [Electromagnetic Simulator](https://github.com/waltdev16/Electromagnetic_Simulator)
+Interactive 3D educational simulator of an electromagnetic crane with physics explanations and industrial-style controls.  
+**Focus:** Computational Physics · 3D Simulation
+
+### [Python Development Lab](https://github.com/waltdev16/Python_Development_Lab)
+A collection of practical Python applications focused on programming fundamentals, logic, and problem-solving.  
+**Focus:** Programming · Algorithmic Thinking
+
+### [Web Development Lab](https://github.com/waltdev16/Web_Development_Lab)
+A set of frontend development exercises and interactive web applications built to strengthen core web development skills.  
+**Focus:** Frontend Development · Interactive Applications
 
 ## Technologies & Tools
 
