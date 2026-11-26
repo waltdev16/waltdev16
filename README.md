@@ -24,29 +24,62 @@ Through academic and independent projects, I aim to strengthen my technical skil
 
 ## Selected Projects
 
-### [SortlyScan](https://github.com/waltdev16/SortlyScan_ExpoTech)
-AI-powered educational platform focused on recycling, environmental education, gamification, and institutional analytics.  
-**Focus:** Artificial Intelligence · Environmental Education · Computer Vision
-
-### [HYDRA](https://github.com/waltdev16/HYDRA)
-Automated rainwater harvesting and management system featuring Arduino-based control, IoT connectivity, and an interactive 3D digital twin.  
-**Focus:** IoT · Embedded Systems · Digital Twin
-
-### [Hotspots Comerciales](https://github.com/waltdev16/Hotspots_Comerciales)
-Geospatial and machine learning project developed to identify commercial clusters and evaluate potential business locations in El Salvador.  
-**Focus:** Machine Learning · Geospatial Analysis
-
-### [Electromagnetic Simulator](https://github.com/waltdev16/Electromagnetic_Simulator)
-Interactive 3D educational simulator of an electromagnetic crane with physics explanations and industrial-style controls.  
-**Focus:** Computational Physics · 3D Simulation
-
-### [Python Development Lab](https://github.com/waltdev16/Python_Development_Lab)
-A collection of practical Python applications focused on programming fundamentals, logic, and problem-solving.  
-**Focus:** Programming · Algorithmic Thinking
-
-### [Web Development Lab](https://github.com/waltdev16/Web_Development_Lab)
-A set of frontend development exercises and interactive web applications built to strengthen core web development skills.  
-**Focus:** Frontend Development · Interactive Applications
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/waltdev16/SortlyScan_ExpoTech">
+        <img src="./assets/projects/sortlyscan.png" width="100%" alt="SortlyScan">
+        <h3>SortlyScan</h3>
+      </a>
+      <p>AI · Computer Vision · EdTech</p>
+      <p>Intelligent waste classification and environmental education.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/waltdev16/Hydra_ExpoLogros">
+        <img src="./assets/projects/hydra.png" width="100%" alt="HYDRA">
+        <h3>HYDRA</h3>
+      </a>
+      <p>IoT · Arduino · Digital Twin</p>
+      <p>Automated rainwater harvesting and interactive 3D simulation.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/waltdev16/Hotspots_Comerciales">
+        <img src="./assets/projects/hotspots.png" width="100%" alt="Hotspots">
+        <h3>Hotspots Comerciales</h3>
+      </a>
+      <p>Machine Learning · Geospatial Analysis</p>
+      <p>Data-driven commercial location analysis.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/waltdev16/Electromagnetic_Simulator">
+        <img src="./assets/projects/electromagnetic.png" width="100%" alt="Electromagnetic Simulator">
+        <h3>Electromagnetic Simulator</h3>
+      </a>
+      <p>Physics · Three.js · Engineering</p>
+      <p>Interactive electromagnetic crane simulation.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/waltdev16/Python_Development_Lab">
+        <img src="./assets/projects/python.png" width="100%" alt="Python Lab">
+        <h3>Python Development Lab</h3>
+      </a>
+      <p>Python · Algorithms · Programming</p>
+      <p>Practical applications and computational thinking.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/waltdev16/Web_Development_Lab">
+        <img src="./assets/projects/web.png" width="100%" alt="Web Lab">
+        <h3>Web Development Lab</h3>
+      </a>
+      <p>JavaScript · React · Frontend</p>
+      <p>Interactive applications and web development.</p>
+    </td>
+  </tr>
+</table>
 
 ## Technologies & Tools
 
